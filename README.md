@@ -1,0 +1,2 @@
+# laxstats
+Simulated game outcomes
